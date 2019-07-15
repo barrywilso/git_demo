@@ -1,0 +1,2 @@
+move: Flamethrower
+move: Thunderbolt
